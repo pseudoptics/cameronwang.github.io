@@ -28,7 +28,7 @@ theme = "minimal"
     weight = 2
 
 [[menu.main]]
-    url = "/posts/"
+    url = "/post/"
     name = "Learning Journal"
     weight = 3
 
