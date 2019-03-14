@@ -1,80 +1,57 @@
 baseURL = "https://pseudoptics.github.io"
 languageCode = "en-us"
-defaultContentLanguage = "en"
 title = "e-Portfolio"
-theme = "hermit"
-# enableGitInfo = true
-pygmentsCodefences  = true
-pygmentsUseClasses  = true
-# hasCJKLanguage = true  # If Chinese/Japanese/Korean is your main content language, enable this to make wordCount works right.
-# rssLimit = 10  # Maximum number of items in the RSS feed.
-# copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
-# enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
-# googleAnalytics = "UA-123-45"
-# disqusShortname = "yourdiscussshortname"
-
-[author]
-  name = "Cameron Wang"
-
-[blackfriday]
-  # hrefTargetBlank = true
-  # noreferrerLinks = true
-  # nofollowLinks = true
-
-[taxonomies]
-  tag = "tags"
-  # Categories are disabled by default.
+theme = "minimal"
+# disqusShortname = "username" # delete this to disable disqus comments
+# googleAnalytics = ""
 
 [params]
-  dateform        = "Jan 2, 2006"
-  dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04 -0700"
+    author = "Cameron Wang"
+    description = "An Online Portfolio To Display My Work."
+    githubUsername = "#pseudoptics"
+    accent = "red"
+    showBorder = true
+    backgroundColor = "white"
+    font = "Raleway" # should match the name on Google Fonts!
+    highlight = true
+    highlightStyle = "solarized-dark"
+    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
 
-  # Metadata mostly used in document's head
-  # description = ""
-  # images = [""]
-  themeColor = "#494f5c"
+[[menu.main]]
+    url = "/"
+    name = "Home"
+    weight = 1
 
-  homeSubtitle = "An Online Portfolio To Display My Work."
-  # footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-  # bgImg = ""  # Homepage background-image URL
-
-  # Prefix of link to the git commit detail page. GitInfo must be enabled.
-  # gitUrl = "https://github.com/username/repository/commit/"
-
-  # Toggling this option needs to rebuild SCSS, requires Hugo extended version
-  # justifyContent = false  # Set "text-align: justify" to `.content`.
-
-  # Add custom css
-  # customCSS = ["css/foo.css", "css/bar.css"]
-
-  # Social Icons
-  # Check https://github.com/Track3/hermit#social-icons for more info.
-  [[params.social]]
-    name = "email"
-    url = "mailto:cameronwang2000@gmail.com"
-
-  [[params.social]]
-    name = "linkedin"
-    url = "https://www.linkedin.com/in/cameron-wang-a8a772150/"
-
-  [[params.social]]
-    name = "github"
-    url = "https://github.com/pseudoptics/"
-	
-  [[params.social]]
-    name = "cybersec-portfolio"
-    url = "https://pseudoptics.me/"
-
-[menu]
-
-  [[menu.main]]
+[[menu.main]]
+    url = "/about-me/"
     name = "About Me"
-    url = "about-me/"
-	weight = 5
+    weight = 2
 
-  [[menu.main]]
+[[menu.main]]
+    url = "/posts/"
     name = "Learning Journal"
-    url = "learning-journal/"
-    weight = 10
+    weight = 3
+
+# Social icons to be shown on the right-hand side of the navigation bar
+# The "name" field should match the name of the icon to be used
+# The list of available icons can be found at http://fontawesome.io/icons/
+
+[[menu.icon]]
+    url = "mailto:cameronwang2000@gmail.com"
+    name = "envelope-o"
+    weight = 1
+
+[[menu.icon]]
+    url = "https://github.com/pseudoptics"
+    name = "github"
+    weight = 2
+
+[[menu.icon]]
+    url = "https://www.linkedin.com/in/cameron-wang-a8a772150/"
+    name = "linkedin"
+    weight = 3
+	
+[[menu.icon]]
+	url = "https://pseudoptics.me"
+	name = "square"
+	weight = 4
