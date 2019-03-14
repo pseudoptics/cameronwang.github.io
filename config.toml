@@ -1,4 +1,4 @@
-baseURL = "https://pseudoptics.github.io"
+baseURL = "/"
 languageCode = "en-us"
 title = "e-Portfolio"
 theme = "minimal"
