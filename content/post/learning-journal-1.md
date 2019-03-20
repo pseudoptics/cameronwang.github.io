@@ -1,9 +1,9 @@
 ---
-title: "Learning Journal 2"
+title: "Learning Journal 1"
 date: 2019-03-16T19:51:01+11:00
 ---
 
-# Learning Journal 2
+# Learning Journal 1
 ## Critical Incident
 ### UTS Programmers' Society Hackathon
 
