@@ -1,5 +1,5 @@
 ---
-title: "Learning Journal 1"
+title: "Learning Journal 1 - Critical Incident"
 date: 2019-03-16T19:51:01+11:00
 ---
 
