@@ -31,6 +31,11 @@ theme = "minimal"
     url = "/post/"
     name = "Learning Journal"
     weight = 3
+	
+[[menu.main]]
+    url = "https://drive.google.com/open?id=1CJnYTtIKHE6F1FqMLPAdA_5kZPW0U_6-"
+    name = "Resume"
+    weight = 4
 
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used
@@ -50,11 +55,6 @@ theme = "minimal"
     url = "https://www.linkedin.com/in/cameron-wang-a8a772150/"
     name = "linkedin"
     weight = 3
-	
-[[menu.icon]]
-	url = "https://drive.google.com/open?id=1V7Zrw-y-72wDWEGwsYTdihvoNzwpYLvm"
-	name = "file-o"
-	weight = 4
 	
 [[menu.icon]]
 	url = "https://pseudoptics.me"
