@@ -36,7 +36,12 @@ theme = "minimal"
     url = "https://drive.google.com/open?id=1CJnYTtIKHE6F1FqMLPAdA_5kZPW0U_6-"
     name = "Resume"
     weight = 4
-
+	
+[[menu.main]]
+    url = "/contact/"
+    name = "Contact Me"
+    weight = 5
+	
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used
 # The list of available icons can be found at http://fontawesome.io/icons/
