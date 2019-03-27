@@ -21,6 +21,9 @@ I was tasked to create and conduct the presentation of our project, providing th
 The presentation was to be shown to an audience consisting of members of the Programmers Society and the Robotics Society, participants of the competition, and mentors from WiseTech Global. 
 However, due to my lack of confidence and social anxiety during the time, I ended up stuttering on my words, and looking away from the audience.
 
+{{<figure src="/img/presentation.jpg">}}
+Cameron Wang (Me) presenting the prototype during the presentaiton event at the end of the hackathon.
+
 The incident was extremely stressful. The incomplete product along with my terrible composure while presenting to individuals in the industry left me feeling embarrassed and ashamed, 
 but is an important experience I do not regret. 
 The incident has shown me the skills, both technical with programming, and interpersonal with speaking and communication skills, that I still currently need to develop.
