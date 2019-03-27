@@ -13,8 +13,11 @@ Collegiate Programming Content (ICPC), a worldwide annual elite programming comp
 and utilise my programming abilities, and as a team of three, collaborated to approach eight challenges within a four hour time period.
 
 Members:
+
 - Cameron Wang (Me) - Software Engineer
+
 - Wasif Hossain - Software Engineer
+
 - Michael Ng - Software Engineer
 
 {{<figure src="/img/progsoc_focus_members.jpg" width="384px" height="216px">}}
