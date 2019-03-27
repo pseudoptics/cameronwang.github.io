@@ -4,7 +4,8 @@ date: 2019-03-23
 ---
 
 # Learning Journal 2
-## UTS Programmers' Society Programming Competition
+## Critical Incident
+### UTS Programmers' Society Programming Competition
 
 During September 2018, the Programmers' Society at UTS, sponsored by WiseTech Global, hosted a programming competition where teams of two or three compete against one another to solve a number of programming
 challenges, leveling from beginner to challenging, quickly and efficiently within the given time limit. The top teams in the competition were provided the opportunity to participate in the International
