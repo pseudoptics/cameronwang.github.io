@@ -31,21 +31,26 @@ theme = "minimal"
     url = "/investment/"
     name = "Self Investment"
     weight = 3
+	
+[[menu.main]]
+    url = "/smart_goals/"
+    name = "SMART Goals"
+    weight = 4
 
 [[menu.main]]
     url = "/post/"
     name = "Learning Journal"
-    weight = 4
+    weight = 5
 	
 [[menu.main]]
-    url = "https://drive.google.com/open?id=1b-0UOJkVDkOnpCcURJ1a4D4e7MoWonXw"
+    url = "https://drive.google.com/open?id=1CJnYTtIKHE6F1FqMLPAdA_5kZPW0U_6-"
     name = "Resume"
-    weight = 5
+    weight = 6
 	
 [[menu.main]]
     url = "/contact/"
     name = "Contact Me"
-    weight = 6
+    weight = 7
 	
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used
