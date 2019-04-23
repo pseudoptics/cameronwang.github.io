@@ -15,6 +15,5 @@ to support my work, and all of the content required for the first Professional A
 about me and my degree, but could use more detail, such as including my areas of interests, to further flesh out the type of person I am. I have taken in all of my feedback, and I will ensure that I continue
 to improve upon my e-portfolio based on this feedback.
 
-{{<figure src="/img/feedback_1.jpg" caption="e-portfolio feedback 1." alt="e-portfolio feedback 1.">}}
-{{<figure src="/img/feedback_2.jpg" caption="e-portfolio feedback 2." alt="e-portfolio feedback 2.">}}
-{{<figure src="/img/feedback_3.jpg" caption="e-portfolio feedback 3." alt="e-portfolio feedback 3.">}}
+{{<figure src="/img/renz_feedback.png" caption="e-portfolio feedback I received from a member of my peer review group." alt="e-portfolio feedback 1.">}}
+{{<figure src="/img/chen_feedback.jpg" caption="e-portfolio feedback I recieved from another member of my peer review group." alt="e-portfolio feedback 2.">}}
