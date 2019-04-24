@@ -5,7 +5,7 @@ date: 2019-04-11T18:04:34+10:00
 
 # Self Investment
 
-According to Darvin and Norton's Model of Investment, there are three distinct elements towards investment: identity, which is defined as "how a person understands
+Darvin and Norton's Model of Investment describes three distinct elements towards investment: identity, which is defined as "how a person understands
 his or her relationship to the world, how that relationship is structured across time and space, and how the person understands responsibilites for the future" by Norton,
 ideology, which is defined as "the power to impose and to inculcate principles of construction of reality" by Bourdieu, and capital, which is defined as "exchanging resources
 for value".
