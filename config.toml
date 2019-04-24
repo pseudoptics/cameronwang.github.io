@@ -28,7 +28,7 @@ theme = "minimal"
     weight = 2
 	
 [[menu.main]]
-    url = "/investment/"
+    url = "/investment_v2/"
     name = "Self Investment"
     weight = 3
 	
