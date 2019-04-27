@@ -17,3 +17,4 @@ to improve upon my e-portfolio based on this feedback.
 
 {{<figure src="/img/renz_feedback.png" caption="e-portfolio feedback I received from a member of my peer review group." alt="e-portfolio feedback 1.">}}
 {{<figure src="/img/chen_feedback.jpg" caption="e-portfolio feedback I recieved from another member of my peer review group." alt="e-portfolio feedback 2.">}}
+{{<figure src="/img/hokchhay_feedback2.png" caption="e-portfolio feedback I recieved from another member of my peer review group." alt="e-portfolio feedback 3.">}}

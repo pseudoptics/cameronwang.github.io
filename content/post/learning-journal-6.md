@@ -1,6 +1,6 @@
 ---
 title: "Learning Journal 6 - Professional Assessment Activity 2"
-date: 2019-04-18
+date: 2019-04-23
 ---
 
 # Learning Journal 6
@@ -13,3 +13,5 @@ e-portfolios, looking towards any improvements from the previous Professional As
 My e-portfolio is currently receiving positive feedback, according to the reviews I have received from my group memebers. I have shown good progress since the previous review, adding two new learning
 journals, and an article discussing my investment towards becoming an engineer. However, I have still currently not updated my "About Me" page, or included the required sections, such as the "SMART Goals",
 which will all be updated and included by the final version.
+
+{{<figure src="/img/hokchhay_feedback1.png" caption="e-portfolio feedback I received from a member of my peer review group." alt="e-portfolio feedback 1.">}}
