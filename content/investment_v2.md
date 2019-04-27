@@ -6,14 +6,14 @@ date: 2019-04-11T18:04:34+10:00
 # Self Investment
 
 I originally did not decide to head into the field of engineering, rather, I began with the goal of becoming a game developer, due to my love for video games. As part of achieving my goal, 
-I chose to study technology centered subjects at school, such as Information Software and Technology (IST) for Year 9 and 10, and Information Processes and Technology (IPT) and Software Design and Development (SDD),
+I chose to study technology centred subjects at school, such as Information Software and Technology (IST) for Year 9 and 10, and Information Processes and Technology (IPT) and Software Design and Development (SDD),
 for the HSC, which also further deepened my passion towards technology. Alongside my studies at school, I would also spend much of my own personal time to self-study programming, utilising online courses such as 
 Codecademy, and purchasing physical textbooks to understand the mindset and process of programming, learning C++, Python, and HTML/CSS. During the HSC, as my project for the Industrial Technology Multimedia subject, 
 I decided to develop a computer game utilising my understanding and knowledge of programming I had developed up to that point. While developing of the game, I discovered that I solely enjoyed the programming
 aspects of my project, which set me on my path to becoming a software engineer.
 
 During Year 11, 2016, I participated with my fellow classmates in the Zero Robotics High School Tournament hosted by the Massachusetts Institute of Technology (MIT), where students program robots called
-SPHERES (Synchronized Position Hold Engage and Reorient Experimental Satellites) inside the International Space Station, using C++ and their custom funcntions. Acting as the Lead Programmer for my team, the
+SPHERES (Synchronized Position Hold Engage and Reorient Experimental Satellites) inside the International Space Station, using C++ and their custom functions. Acting as the Lead Programmer for my team, the
 experience taught me a lot beyond programming. Real world software development is accomplished in teams, so the competition provided significant experience towards developing my teamworking, communication,
 leadership and team management skills, which are all important skills for a professional software engineer to possess.
 
