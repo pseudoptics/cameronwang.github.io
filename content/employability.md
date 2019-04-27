@@ -3,14 +3,14 @@ title: "Employability"
 date: 2019-04-16T23:52:12+10:00
 ---
 
-# Internship Oppotunities
+# Internship Opportunities
 
 It is important, when applying for job and internship opportunities, that a resume is prepared. Depending on the job that is being applied for, the resume should also
 be customised to suit that position, to display the related skills, experience and achievements to increase the chances of employability. It is considered best practice to have a 
 basic, general resume prepared, which can be modified to suit the aimed position.
 
 On LinkedIn, Google has listed a Software Engineering Internship advertisement for Summer of 2019. Regarding technical skills, the minimum qualifications states that the employer is looking for
-experience in general purpose programming languages such as Java, C/C++ and Python. The employer also preferres employees with experience in systems software or algorithms, knowledge of Unix/Linux
+experience in general purpose programming languages such as Java, C/C++ and Python. The employer also prefers employees with experience in systems software or algorithms, knowledge of Unix/Linux
 and APIs and familiarity with TCP/IP and network programming. Alongside technical skills, the employer also looks for employees with interpersonal skills with public speaking/presentation and
 teamwork/communication, as stated in the description, "present new ideas" and "focus on being a collaborative, global organization consisting of engineers", and in their Responsibilities section with the
 keyword 'Collaborate'.
