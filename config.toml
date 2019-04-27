@@ -28,7 +28,7 @@ theme = "minimal"
     weight = 2
 	
 [[menu.main]]
-    url = "/investment_v2/"
+    url = "/investment/"
     name = "Self Investment"
     weight = 3
 	
@@ -38,19 +38,29 @@ theme = "minimal"
     weight = 4
 
 [[menu.main]]
-    url = "/post/"
-    name = "Learning Journal"
+    url = "/employability/"
+    name = "Employability"
     weight = 5
 	
 [[menu.main]]
-    url = "https://drive.google.com/open?id=1CJnYTtIKHE6F1FqMLPAdA_5kZPW0U_6-"
-    name = "Resume"
+    url = "/slo/"
+    name = "SLOs"
     weight = 6
+	
+[[menu.main]]
+    url = "/post/"
+    name = "Learning Journal"
+    weight = 7
+	
+[[menu.main]]
+    url = "https://drive.google.com/open?id=1UO3a26I6h7SZOaMtOgLqfSYn6SVD7y68"
+    name = "Resume"
+    weight = 8
 	
 [[menu.main]]
     url = "/contact/"
     name = "Contact Me"
-    weight = 7
+    weight = 9
 	
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used
