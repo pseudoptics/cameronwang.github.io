@@ -17,12 +17,12 @@ high-performing engineering teams, describing the concepts that he often follows
 {{<figure src="/img/tome_presentation.jpg" caption="Daniel Tome">}}
 
 The second talk of the event was “Women Who Lead”, presented by Stephanie Campanella. Starting off as a young graphics designer, Campanella became a part of the Technology Industry, and describes her 
-principles and advice that allowed her to become successful in the Field of Information Technology. Although the background of the presentation is centered towards women and the IT industry, the concepts 
+principles and advice that allowed her to become successful in the Field of Information Technology. Although the background of the presentation is centred towards women and the IT industry, the concepts 
 discussed can be applied towards my own situations and goals, advice to be confident and work towards goals without fear of failure.
 
 The final talk of the event was "Field Robotics and Machine Learning for Remote Infrastructure Inspection", presented by Suchet Bargoti. Leading the technical vision at Abyss Solutions, their business
 focuses on developing field robotics designed to reduce costs, risks, and disruptions associated with structural inspections on remote assets, which include ships, offshore rigs, and underwater pipelines.
-Their systems allow for accurate, high-quality data captures through remote inspections without requiring physical on site presense. With large amounts of collected data using these systems, Abyss Solutions
+Their systems allow for accurate, high-quality data captures through remote inspections without requiring physical on site presence. With large amounts of collected data using these systems, Abyss Solutions
 have begun applying machine learning as a means to accurately and quickly gain a complete understanding of the structural health of assets. Bargoti discusses the key innovations in field robotics, machine
 learning and data analytics of their business to challenge the current issues and transform the current infrastructure inspections industry.
 
