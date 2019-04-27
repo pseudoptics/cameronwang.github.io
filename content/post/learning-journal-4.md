@@ -22,6 +22,6 @@ that allowed users to select computer parts from a catalogue, and add it to thei
 teaching me the fundamentals in developing GUI Applications in Java, along with understanding the fundamentals of the MVC (Model, View, Controller) Architecture.
 
 Although developing a working solution is the end goal of a software developer, an important aspect to software engineering is writing code that is both readable and manageable for others, as well as
-efficient. Software development in the real world are accomplished in teams, so code needs to be clean and concise to be understandable to other team members, with comments which describe the fuctionality
+efficient. Software development in the real world are accomplished in teams, so code needs to be clean and concise to be understandable to other team members, with comments which describe the functionality
 of each section, allowing them to review and further improve upon the current version. Another important aspect of programming is efficiency, ensuring that the program is quick in performing the required
 task. This is achieved by shortening the code as short as possible, which is achieved through utilization of patterns.
